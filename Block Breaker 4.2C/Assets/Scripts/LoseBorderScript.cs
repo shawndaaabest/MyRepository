@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class LoseBorderScript : MonoBehaviour {
 
-    LevelManager LevelManager = new LevelManager();
+    LevelManager levelManager = new LevelManager();
 
 	// Use this for initialization
 	void Start () {
@@ -24,6 +24,6 @@ public class LoseBorderScript : MonoBehaviour {
     void OnTriggerEnter2D(Collider2D collision)
     {
         print("Trigger");
-        LevelManager.LoadNewScene("Lose");
+        levelManager.LoadNewScene("Lose");
     }
 }
