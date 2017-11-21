@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Block Breaker 4.2C.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Brick.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\MusicPlayerScript.cs">
     <Files>
-      <File FileName="Assets\Scripts\Brick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\MusicPlayerScript.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
